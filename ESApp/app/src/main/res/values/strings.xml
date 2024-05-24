@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ESApp</string>
+    <string name="notification_text">notification text</string>
+    <string name="notifications">notifications</string>
+</resources>
